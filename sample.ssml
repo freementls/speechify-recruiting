@@ -1,9 +1,0 @@
-<speak>
-  Hello, welcome to our service.
-  <break time="1s"/>
-  I can speak in cardinals: <say-as interpret-as="cardinal">12345</say-as>.
-  Or in ordinals: <say-as interpret-as="ordinal">10</say-as> in line.
-  I can also spell out: <say-as interpret-as="verbatim">hello</say-as>.
-  <break time="500ms"/>
-  Finally, this is the end of the sample.
-</speak>
